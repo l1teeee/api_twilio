@@ -298,7 +298,7 @@ print(f"✅ Claude analizó: {analisis['sentimiento']} - {analisis['tema']}")
 3. **Environment Variables:** Cargar desde .env
 4. **Debugger:** Breakpoints en webhook() para debugging
 
-## 🔐 Seguridad
+## Seguridad
 
 - **Variables de entorno** para todas las credenciales
 - **API keys** no hardcodeadas en el código
@@ -306,13 +306,13 @@ print(f"✅ Claude analizó: {analisis['sentimiento']} - {analisis['tema']}")
 - **Validación de entrada** en todos los endpoints
 - **Manejo seguro** de errores sin exposición de detalles
 
-## 🚧 Limitaciones Actuales
+## Limitaciones Actuales
 
 - **Sandbox de WhatsApp** - Solo números pre-aprobados
 - **ngrok gratuito** - URL cambia en cada reinicio
 - **Análisis en español** - Optimizado para español, funcionalidad limitada en otros idiomas
 
-## 🔄 Próximos Pasos
+## Próximos Pasos
 
 1. **Frontend React** con gráficos interactivos
 2. **WhatsApp Business API** para producción
@@ -320,7 +320,7 @@ print(f"✅ Claude analizó: {analisis['sentimiento']} - {analisis['tema']}")
 4. **Alertas automáticas** por sentimientos negativos
 5. **Dashboard administrativo** con configuraciones
 
-## 📞 Soporte
+## Soporte
 
 Para problemas o consultas, verificar:
 1. **Logs del servidor** para errores específicos
