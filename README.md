@@ -1,4 +1,4 @@
-# WhatsApp Dashboard - Análisis de Sentimientos en Tiempo Real
+# API PYTHON - Análisis de Sentimientos en Tiempo Real
 
 Sistema completo de análisis de feedback de clientes que recibe mensajes vía WhatsApp, los analiza automáticamente con IA, y visualiza insights de negocio en tiempo real.
 
