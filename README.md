@@ -327,7 +327,3 @@ Para problemas o consultas, verificar:
 2. **Estado de servicios** externos (Twilio, MongoDB, Anthropic)
 3. **Configuración de ngrok** y webhooks
 4. **Variables de entorno** correctamente configuradas
-
-## 📄 Licencia
-
-MIT License - Ver archivo LICENSE para detalles completos.
