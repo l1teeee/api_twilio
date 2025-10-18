@@ -12,8 +12,9 @@ import anthropic
 load_dotenv()
 
 app = Flask(__name__)
-CORS(app, origins=["http://localhost:3000"])
-CORS(app)
+CORS(app, origins=[
+    "https://main.d3t2yyjwnh2jho.amplifyapp.com"  # Para producción
+])
 
 # Configurar Claude (Anthropic)
 ANTHROPIC_API_KEY = os.getenv('ANTHROPIC_API_KEY')
